@@ -2,8 +2,8 @@
   "Logging": {
     "IncludeScopes": true,
     "LogLevel": {
-      "Default": "Information",
-      "LinkChecker": "Trace"
+      "Default": "Information"
+
     }
   }
 }

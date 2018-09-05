@@ -22,5 +22,9 @@ namespace CheckLinksConsole2
             }
 
         }
-    
+
+    public class SiteSettings
+    {
+        public string Site { get; set; }
+    }
 }
